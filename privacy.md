@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated:** 2025-12-14
+**Last updated:** 2026-01-05
 
-Party Starter we are committed to protecting your privacy. This Privacy Policy explains how our mobile application (the Party Starter) handles your information.
+At PartyStarter we are committed to protecting your privacy. This Privacy Policy explains how our mobile application (the PartyStarter) handles your information.
 
 ## 1. Information Collection
 We do not collect, store, or share any personal information, location data, or user-generated content. The App functions entirely locally on your device.
@@ -22,4 +22,4 @@ Our App does not address anyone under the age of 13. We do not knowingly collect
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
 ## 6. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **[Your Email Address]**.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **devlio.service@gmail.com**.
