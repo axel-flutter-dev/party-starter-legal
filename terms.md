@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last updated:** 2025-12-14
+**Last updated:** 2026-01-05
 
 By downloading or using the app Party Starter, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.
 
@@ -26,4 +26,4 @@ The content provided in this game is for entertainment purposes. We are not resp
 We reserve the right to modify these terms at any time. Continued use of the App signifies your acceptance of the changes.
 
 ## 7. Contact
-If you have any questions regarding these terms, please contact us at case.trackersup@gmail.com.
+If you have any questions regarding these terms, please contact us at devlio.service@gmail.com.
